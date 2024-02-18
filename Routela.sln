@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routela", "Routela\Routela.csproj", "{D45B71C0-EDD5-448D-A300-6DE2EFC10114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routela.Models", "Routela.Models\Routela.Models.csproj", "{9E8178EC-D6E2-4FDF-B7C1-B5949AFC78ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routela.Services", "Routela.Helpers\Routela.Services.csproj", "{F220EE70-5A04-4685-8413-3CC087726B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routela.DataAccess", "Routela.DataAccess\Routela.DataAccess.csproj", "{C5C9D072-EE08-4B78-A3BE-B0B1D891FF92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45B71C0-EDD5-448D-A300-6DE2EFC10114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45B71C0-EDD5-448D-A300-6DE2EFC10114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45B71C0-EDD5-448D-A300-6DE2EFC10114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45B71C0-EDD5-448D-A300-6DE2EFC10114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8178EC-D6E2-4FDF-B7C1-B5949AFC78ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8178EC-D6E2-4FDF-B7C1-B5949AFC78ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8178EC-D6E2-4FDF-B7C1-B5949AFC78ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8178EC-D6E2-4FDF-B7C1-B5949AFC78ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F220EE70-5A04-4685-8413-3CC087726B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F220EE70-5A04-4685-8413-3CC087726B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F220EE70-5A04-4685-8413-3CC087726B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F220EE70-5A04-4685-8413-3CC087726B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C9D072-EE08-4B78-A3BE-B0B1D891FF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C9D072-EE08-4B78-A3BE-B0B1D891FF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C9D072-EE08-4B78-A3BE-B0B1D891FF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C9D072-EE08-4B78-A3BE-B0B1D891FF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A9475F8-B6D7-4AF0-86EE-4B2DEEE1BB34}
+	EndGlobalSection
+EndGlobal
